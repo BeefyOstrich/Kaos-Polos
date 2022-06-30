@@ -2,7 +2,7 @@
 
 ``` bash
 # clone the repo
-$ git clone https://gitlab.com/sakanario/kaos-polos.git my-project
+$ git clone https://gitlab.com/alvin.nurfauzan/kaos-polos.git my-project
 
 # go into app's directory
 $ cd my-project
